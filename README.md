@@ -28,4 +28,8 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
 ## Other Important Links to read about Hacktoberfest 
 <https://hackernoon.com/some-tips-for-hacktoberfest-717d23e1e9c2><br  />
 <https://medium.com/openbazaarproject/hacktoberfest-with-openbazaar-help-make-trade-free-get-rewards-649e05b46848><br  />
-<https://code.likeagirl.io/come-lets-get-the-hacktoberfest-t-shirt-together-a-beginner-s-guide-890336148be5>
+<https://code.likeagirl.io/come-lets-get-the-hacktoberfest-t-shirt-together-a-beginner-s-guide-890336148be5><br  />
+
+## Video
+<a href="https://www.youtube.com/watch?v=NigkqsEqYZw" target="_blank"><img src="https://www.youtube.com/watch?v=NigkqsEqYZw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
