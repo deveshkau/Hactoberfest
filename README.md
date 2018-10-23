@@ -26,6 +26,6 @@ ROGER that!
 To get a shirt, you must make five pull requests (PRs) between October 1–31 in any timezone. PRs can be to any public repo on GitHub, not just the ones highlighted. The PR must contain commits you made yourself. PRs reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt. This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2017).
 
 ## Other Important Links to read about Hacktoberfest 
-<https://hackernoon.com/some-tips-for-hacktoberfest-717d23e1e9c2>
-<https://medium.com/openbazaarproject/hacktoberfest-with-openbazaar-help-make-trade-free-get-rewards-649e05b46848>
+<https://hackernoon.com/some-tips-for-hacktoberfest-717d23e1e9c2><br  />
+<https://medium.com/openbazaarproject/hacktoberfest-with-openbazaar-help-make-trade-free-get-rewards-649e05b46848><br  />
 <https://code.likeagirl.io/come-lets-get-the-hacktoberfest-t-shirt-together-a-beginner-s-guide-890336148be5>
