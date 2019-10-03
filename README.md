@@ -1,5 +1,5 @@
 # Hacktoberfest
-Repository for hacktoberfest - 2018
+Repository for hacktoberfest - 2019
 
 ## What is Hacktoberfest?
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
@@ -7,6 +7,9 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 - Hacktoberfest is open to everyone in our global community!
 - Five quality pull requests must be submitted to public GitHub repositories.
 - You can sign up anytime between October 1 and October 31.
+
+## For Beginners
+The [Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) is a good place to get an introduction on how to contribute to Open Source Projects.
 
 ## How to get started?
 
