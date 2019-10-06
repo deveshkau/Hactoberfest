@@ -14,7 +14,7 @@ The [Introduction to Open Source](https://www.digitalocean.com/community/tutoria
 ## How to get started?
 
 ### Step 1: Registration
-[Registartion](https://hacktoberfest.digitalocean.com)
+[Registration](https://hacktoberfest.digitalocean.com)
 
 ### Step 2: Contribute
 Give atleaset 5 PR to any public repo on GitHub.
